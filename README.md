@@ -18,7 +18,6 @@ The challenge is to build a system that:
 - Provides a smooth and reliable user experience
 - Allows flexible food ordering
 
-(Ref: :contentReference[oaicite:0]{index=0}, Problem Statement + Abstract)
 
 ---
 
@@ -37,7 +36,6 @@ For example:
 - If recommendations fail → ordering still works
 - If load increases → system simplifies UI or limits features
 
-(Ref: :contentReference[oaicite:1]{index=1}, Abstract + Proposed Solution)
 
 ---
 
@@ -58,7 +56,6 @@ For example:
 - Bootstrap
 - Firebase (Authentication)
 
-(Ref: :contentReference[oaicite:2]{index=2}, Chapter 3)
 
 ---
 
@@ -70,7 +67,6 @@ For example:
 5. Adds items to cart  
 6. Proceeds to payment  
 
-(Ref: Flowchart on page 16 :contentReference[oaicite:3]{index=3})
 
 ---
 
@@ -80,7 +76,6 @@ For example:
 - Minimize downtime  
 - Maintain core functionality under high load  
 
-(Ref: :contentReference[oaicite:4]{index=4}, Objectives section)
 
 ---
 
@@ -89,7 +84,6 @@ For example:
 - Direct farm-to-restaurant supply system  
 - Improved scalability and performance  
 
-(Ref: :contentReference[oaicite:5]{index=5}, Conclusion & Future Work)
 
 ---
 
